@@ -1,0 +1,7 @@
+# compiled output
+/app.js
+
+# dependencies
+/node_modules
+/bower_components
+/elm-stuff
